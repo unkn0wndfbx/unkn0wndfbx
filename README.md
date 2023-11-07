@@ -6,10 +6,25 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ✉️ You can contact me at thdev.web@gmail.com
+## Developer
+
+- 🔭 I’m currently working on web projects
+- 🌱 I’m currently learning computer science
+- ✉️ You can contact me at [thdev.web@gmail.com](mailto:thdev.web@gmail.com)
 - 🌍 I'm based in South of France
+
+## Skills 
+
+### Programming
+![script-skills](https://skillicons.dev/icons?i=python,php)
+
+![dev-skills](https://skillicons.dev/icons?i=java,arduino,flutter)
+
+### Database
+![My Skills](https://skillicons.dev/icons?i=mysql,firebase)
+
+### Webdev
+![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,threejs,javascript,nodejs)
+
+### Modeling software
+![My Skills](https://skillicons.dev/icons?i=ae,ps,figma)
