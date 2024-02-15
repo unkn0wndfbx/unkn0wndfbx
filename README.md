@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ✉️ You can contact me at [thdev.web@gmail.com](mailto:thdev.web@gmail.com)
 - 🌍 I'm based in South of France
 
+<p align="center">
+  <img src="https://wakatime.com/share/@018dad70-d7e7-4987-bcfc-e91d2039d8a7/371715ad-e072-48e8-96e3-56a77d330f3e.svg" height="400" />
+</p>
+
 ## Skills 
 
 ### Programming
