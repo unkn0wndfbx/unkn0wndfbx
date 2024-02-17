@@ -11,7 +11,7 @@ Here are some ideas to get you started:
     <img alt="slydragonn portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-violet.svg?logo=sly-portfolio"/>
   </a>
   <a href="https://www.instagram.com/thdevweb/">
-    <img alt="instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-blue.svg?logo=instagram"/>
+    <img alt="instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-dark.svg?logo=instagram"/>
   </a>
 </p>
 
