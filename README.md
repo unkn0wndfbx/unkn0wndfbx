@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>
   [![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx)](https://github.com/ryo-ma/github-profile-trophy)
   [![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&title=Stars,Followers
+  <a href="https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&title=Stars,Followers"></a>
 </p>
 
 <p align="center">
