@@ -5,6 +5,20 @@
 
 Here are some ideas to get you started:
 -->
+<p>
+  <a href="https://slydragonn.site">
+    <img alt="slydragonn portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/my--website-white.svg?logo=sly-portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alejolg/">
+    <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/alejolg-blue.svg?logo=linkedin"/>
+  </a>
+  <a href="https://www.youtube.com/@slydragonn">
+    <img alt="youtube channel" title="Youtube" src="https://custom-icon-badges.demolab.com/badge/@slydragonn-red.svg?logo=slyyoutube&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/slydragonn">
+    <img alt="dev community" title="DEV" src="https://custom-icon-badges.demolab.com/badge/slydragonn-black.svg?logo=devdotto"/>
+  </a>
+</p>
 
 ## Developer
 
@@ -19,6 +33,7 @@ Here are some ideas to get you started:
   [![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx)](https://github.com/ryo-ma/github-profile-trophy)
   [![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   <a href="https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&title=Stars,Followers"></a>
+  https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
 </p>
 
 <p align="center">
