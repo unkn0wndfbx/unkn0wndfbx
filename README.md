@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://thdev.vercel.app/">
-    <img alt="slydragonn portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/my--website-white.svg?logo=sly-portfolio"/>
+    <img alt="slydragonn portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-white.svg?logo=sly-portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/alejolg/">
     <img alt="linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/alejolg-blue.svg?logo=linkedin"/>
