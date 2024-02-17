@@ -24,13 +24,7 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<p>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=slydragonn&theme=juicyfresh&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx)](https://github.com/ryo-ma/github-profile-trophy)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  <a href="https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&title=Stars,Followers"></a>
-  https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=unk0wndfbx&theme=juicyfresh&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://wakatime.com/share/@018dad70-d7e7-4987-bcfc-e91d2039d8a7/371715ad-e072-48e8-96e3-56a77d330f3e.svg" width="400" height="400" />
