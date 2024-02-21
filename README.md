@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&theme=dracula&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
-  <img src="https://wakatime.com/share/@018dad70-d7e7-4987-bcfc-e91d2039d8a7/6cc24d9e-e2a9-45f9-baae-f9ae5010218e.svg" width="400" height="400" />
+  <img src=""https://wakatime.com/share/@018dad70-d7e7-4987-bcfc-e91d2039d8a7/8aff395c-49c1-4768-a323-147fb852b17f.svg"" width="400" height="400" />
 </p>
 
 
