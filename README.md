@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,threejs,javascript,nodejs)
 
 ### Modeling software
-![My Skills](https://skillicons.dev/icons?i=ae,ps,figma)
+![My Skills](https://skillicons.dev/icons?i=ae,ps,figma,blender)
