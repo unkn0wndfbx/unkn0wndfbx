@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&theme=dracula&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn0wndfbx&show_icons=true&theme=dracula)
+<p display="flex">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn0wndfbx&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=dracula)](https://github.com/yushi1007)
+</p>
 
 <p align="left">
   <img src="https://wakatime.com/share/@018dad70-d7e7-4987-bcfc-e91d2039d8a7/8aff395c-49c1-4768-a323-147fb852b17f.svg" width="400" height="400" />
