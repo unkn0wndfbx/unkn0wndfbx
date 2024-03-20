@@ -29,11 +29,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=dracula)](https://github.com/yushi1007)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left">
-  <img src="https://wakatime.com/share/@018dad70-d7e7-4987-bcfc-e91d2039d8a7/8aff395c-49c1-4768-a323-147fb852b17f.svg" width="400" height="400" />
-</p>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills 
 
