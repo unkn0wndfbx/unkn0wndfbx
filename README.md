@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&theme=tokyonight&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&theme=github_dark_dimmed&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn0wndfbx&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn0wndfbx&show_icons=true&theme=github_dark_dimmed)
 
 </div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=tokyonight)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=github_dark_dimmed)](https://github.com/yushi1007)
 
 </div>
 
