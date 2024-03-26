@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&theme=discord_old_blurple)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=discord_old_blurple)](https://github.com/yushi1007)
 
 </div>
 
