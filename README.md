@@ -25,25 +25,25 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&theme=github_dark_dimmed&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=unkn0wndfbx&theme=holi&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn0wndfbx&show_icons=true&theme=github_dark_dimmed)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn0wndfbx&show_icons=true&theme=holi)
 
 </div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=github_dark_dimmed)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=holi)](https://github.com/yushi1007)
 
 </div>
 
 <div align="center">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
