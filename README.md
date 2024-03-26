@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
