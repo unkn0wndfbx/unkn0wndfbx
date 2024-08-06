@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning computer science
 - ✉️ You can contact me at [thdev.web@gmail.com](mailto:thdev.web@gmail.com)
 - 🌍 I'm based in South of France
+  
 [https://thdev.vercel.app](https://thdev.vercel.app)
 
 ## Stats
