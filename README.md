@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🌍 I'm based in South of France
   
 Portfolio: [https://thdev.vercel.app](https://thdev.vercel.app)
+<br>
 GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677616242)
 
 ## Stats
