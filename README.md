@@ -52,7 +52,7 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=unkn0wndfbx&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=unkn0wndfbx.unkn0wndfbx&"  />
 </div>
 
 <div align="center">
