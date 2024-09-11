@@ -12,6 +12,8 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/thdevweb/">
     <img alt="instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-white.svg?logo=instagram"/>
   </a>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=unkn0wndfbx.unkn0wndfbx"  />
 </p>
 
 ## Developer
@@ -49,10 +51,6 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=unkn0wndfbx.unkn0wndfbx"  />
 </div>
 
 <div align="center">
