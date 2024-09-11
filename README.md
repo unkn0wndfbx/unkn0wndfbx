@@ -42,6 +42,10 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=unkn0wndfbx&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=discord_old_blurple)](https://github.com/yushi1007)
 
@@ -51,10 +55,6 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=unkn0wndfbx&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
