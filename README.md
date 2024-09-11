@@ -42,7 +42,7 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=unkn0wndfbx&locale=fr&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3"  alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=unkn0wndfbx&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&border=3"  alt="streak graph"  />
 </div>
 
 <div align="center">
