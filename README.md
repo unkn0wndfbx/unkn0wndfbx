@@ -14,6 +14,8 @@ Here are some ideas to get you started:
   </a>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=unkn0wndfbx.unkn0wndfbx"  />
+
+  [![wakatime](https://wakatime.com/badge/user/018dad70-d7e7-4987-bcfc-e91d2039d8a7.svg)](https://wakatime.com/@018dad70-d7e7-4987-bcfc-e91d2039d8a7)
 </p>
 
 ## Developer
