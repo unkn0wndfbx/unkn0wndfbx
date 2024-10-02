@@ -18,6 +18,10 @@ Here are some ideas to get you started:
   [![wakatime](https://wakatime.com/badge/user/018dad70-d7e7-4987-bcfc-e91d2039d8a7.svg)](https://wakatime.com/@018dad70-d7e7-4987-bcfc-e91d2039d8a7)
 </p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="thdev-web" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/thdev-web?trk=profile-badge">THDev W.</a></div>
+              
+
 ## Developer
 
 - 🔭 I’m currently working on web projects
