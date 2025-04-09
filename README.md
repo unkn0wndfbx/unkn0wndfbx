@@ -70,10 +70,10 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 ![dev-skills](https://skillicons.dev/icons?i=java,arduino,flutter)
 
 ### Database
-![My Skills](https://skillicons.dev/icons?i=mysql,firebase)
+![My Skills](https://skillicons.dev/icons?i=mysql,firebase,appwrite,mongodb)
 
 ### Webdev
-![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,threejs,javascript,nodejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,threejs,javascript,nodejs,vuejs)
 
 ### Modeling software
 ![My Skills](https://skillicons.dev/icons?i=ae,ps,figma,blender)
