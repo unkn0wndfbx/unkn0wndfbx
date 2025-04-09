@@ -73,7 +73,7 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 ![My Skills](https://skillicons.dev/icons?i=mysql,firebase)
 
 ### Webdev
-![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,threejs,javascript,nodejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,threejs,javascript,nodejs)
 
 ### Modeling software
 ![My Skills](https://skillicons.dev/icons?i=ae,ps,figma,blender)
