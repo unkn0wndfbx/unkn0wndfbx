@@ -44,7 +44,7 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=discord_old_blurple" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=discord_old_blurple&layout=compact" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=discord_old_blurple&layout=compact" width="500" />
 </p>
 
 ###
