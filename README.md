@@ -56,7 +56,7 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 
 <div align="center">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
