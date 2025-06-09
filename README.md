@@ -37,28 +37,15 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 
 </div>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unkn0wndfbx&show_icons=true&theme=discord_old_blurple" width="400" />
+  <img src="https://streak-stats.demolab.com?user=unkn0wndfbx&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&border=3" width="400" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unkn0wndfbx&show_icons=true&theme=discord_old_blurple)
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=unkn0wndfbx&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&border=3" alt="streak graph"  />
-</div>
-&nbsp;
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=discord_old_blurple)](https://github.com/yushi1007)
-
-</div>
-
-<div align="center">
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkn0wndfbx&layout=compact&theme=discord_old_blurple" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thdev&theme=discord_old_blurple&layout=compact" width="400" />
+</p>
 
 ###
 
