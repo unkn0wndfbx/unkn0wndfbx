@@ -52,21 +52,31 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 ## Skills
 
 ### Front-end
-![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,threejs,javascript,nodejs,vuejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,threejs,javascript,typescript,vite,vuejs)
 
 ### Back-end
-![My Skills](https://skillicons.dev/icons?i=nestjs,apollo)
+![My Skills](https://skillicons.dev/icons?i=nestjs,apollo,graphql,express,jquery,django,nodejs,aws)
 
-### Programming
-![script-skills](https://skillicons.dev/icons?i=python,php)
+### Cross-platform & Desktop
+![My Skills](https://skillicons.dev/icons?i=flutter,electron,react)
 
-![dev-skills](https://skillicons.dev/icons?i=java,arduino,flutter)
+### Package manager
+![My Skills](https://skillicons.dev/icons?i=bun,npm,pnpm)
 
-### Database
+### Monitoring
+![script-skills](https://skillicons.dev/icons?i=sentry)
+
+### Languages
+![script-skills](https://skillicons.dev/icons?i=python,php,java,arduino)
+
+### Databases & BaaS
 ![My Skills](https://skillicons.dev/icons?i=mysql,firebase,appwrite,mongodb)
 
-### Modeling software
+### Design & Creative tools
 ![My Skills](https://skillicons.dev/icons?i=ae,ps,figma,blender)
+
+### OS
+![My Skills](https://skillicons.dev/icons?i=apple,windows,linux)
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
