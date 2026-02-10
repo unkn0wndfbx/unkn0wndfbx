@@ -63,6 +63,9 @@ GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677
 ### Package manager
 ![My Skills](https://skillicons.dev/icons?i=bun,npm,pnpm)
 
+### Deployment
+![My Skills](https://skillicons.dev/icons?i=vercel)
+
 ### Monitoring
 ![script-skills](https://skillicons.dev/icons?i=sentry)
 
