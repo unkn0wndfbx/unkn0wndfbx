@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 <p>
-  <a href="https://thdev.vercel.app/">
+  <a href="https://titouan-helbert.com/">
     <img alt="slydragonn portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-grey.svg?logo=website"/>
   </a>
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ✉️ You can contact me at [thdev.web@gmail.com](mailto:thdev.web@gmail.com)
 - 🌍 I'm based in South of France
   
-Portfolio: [https://thdev.vercel.app](https://thdev.vercel.app)
+Portfolio: [https://titouan-helbert.com](https://titouan-helbert.com)
 <br>
 GooglePlay : [THDev Web](https://play.google.com/store/apps/dev?id=5599607389677616242)
 
